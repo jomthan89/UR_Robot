@@ -43,3 +43,7 @@ git push -u origin main
 git remote add origin https://github.com/jomthan89/UR_Robot.git
 git branch -M main
 git push -u origin main
+
+git push -u https://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@github.com/jomthan89/UR_Robot.git
+
+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
